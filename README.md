@@ -1,6 +1,6 @@
 # Blood_Bank
 
-Project Title: Spring Boot Blood Bank Application
+## Spring Boot Blood Bank Application
 
 Project Description:
 
