@@ -3,11 +3,11 @@
 ## Spring Boot Blood Bank Application
 
 Project Description:
-
+```
 The Spring Boot Blood Bank Application is a web-based system designed to manage and facilitate blood donation and retrieval.
 This project is an excellent opportunity for a fresh student to learn and apply key concepts in Spring Boot and web application development. 
 The project is structured with various packages and components, each serving a specific purpose to ensure the smooth functioning of the application.
-
+```
 Project Components:
 
 1 Entity Package:
